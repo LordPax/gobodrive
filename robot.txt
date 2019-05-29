@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /fichier/
+Disallow: /bureau/
+Disallow: /images/
+Disallow: /include/
+Disallow: /parametre/
+Disallow: /partage/
+Disallow: /pdf/
+Disallow: /stat/
+Disallow: /video/
+
+User-agent: *
+Allow: /index.php
+Allow: /apropos/
+
+User-agent: Mediapartners-Google
+Allow: /
