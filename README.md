@@ -20,5 +20,7 @@ Ce site a été créé il y a un certain temps déjà, il ce peut qu'il y ait de
 3. Modifiez le fichier **"bdd.php"** qui ce trouve dans le dossier **"include"**. Les instructions serons détaillées dans ce fichier
  
 4. Puis, importez tout les codes sources sur le serveur dans le dossier prévue à cette effet.
- 
+
+### Me contacter
+
 * Je suis disponible pour toute éventuelle question à l'adresse : teddy.gauthier@outlook.com.
