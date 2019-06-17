@@ -22,7 +22,7 @@ Ce site a été créé il y a un certain temps déjà, il ce peut qu'il y ait de
 ### Instruction :
 1. Ecrivez le nom d'utilisateur de la base de donnée et le mot de passe correspondant. Gardez "localhost" si la base de donnée est sur le serveur concervant les codes sources, si la base de donnée est sur un autre serveur, mettez l'adresse de ce serveur.
                  
-2. Ecrivez votre nom de domain, example : $domain = 'http://example.fr'; (si vous avez un certifica SSL, pensez à changer le "http://" en "https://").
+2. Ecrivez votre nom de domain, example : `$domain = 'http://example.fr';` (si vous avez un certifica SSL, pensez à changer le "http://" en "https://").
 
 ### Lignes a modifier
 ```PHP
