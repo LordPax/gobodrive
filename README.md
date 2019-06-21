@@ -18,6 +18,13 @@ Ce site a été créé il y a un certain temps déjà, il ce peut qu'il y ait de
  
 4. Puis, importez tout les codes sources sur le serveur dans le dossier prévue à cette effet.
 
+5. Ne pas oublier de changer l'utilisateur du dossier **"fichier"** en daemon, www-data ou autre avec la commande.
+```bash
+sudo chown daemon fichier/
+
+sudo chown www-data fichier/
+```
+
 ## Dans bdd.php
 ### Instruction :
 1. Ecrivez le nom d'utilisateur de la base de donnée et le mot de passe correspondant. Gardez "localhost" si la base de donnée est sur le serveur concervant les codes sources, si la base de donnée est sur un autre serveur, mettez l'adresse de ce serveur.
